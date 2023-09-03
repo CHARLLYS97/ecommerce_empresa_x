@@ -36,4 +36,10 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem externa
 
-![Logo do PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4YXjp4qx1l-GBBDzHm6qurAzd1-wbVsT8_w&usqp=CAU)
+![Logo do PHP](https://www.interviewbit.com/blog/wp-content/uploads/2021/06/key-reasons-for-using-php-768x499.png)
+
+## Links interessantes:
+
+[Google](www.google.com)
+
+[https://horadecodar.com.br/](https://horadecodar.com.br/)
