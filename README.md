@@ -45,3 +45,5 @@ __Melhoria 1__, _melhoria 2_
 [https://horadecodar.com.br/](https://horadecodar.com.br/)
 
 Contribuidor principal: https://github.com/CHARLLYS97
+
+[![Logo do PHP](https://cdn.dribbble.com/users/8063/screenshots/873671/github_icon_vector_shape.png?resize=800x600&vertical=center)](https://github.com/CHARLLYS97)
